@@ -20,27 +20,37 @@ All projects were done in Jupyter Notebook -  Python, R Studio, Tableau, and Spa
 
 ## Google Data Analytics Capstone Project
  - [Google Capstone Project](https://github.com/minjaesong92/data-analytics-projects/tree/main/google-capstone-project)
+
+
  This project was part of the Google Data Analytics Certification on CourseEra.
 
 ## Airbnb Text Mining
  - [Text Mining Project]()
+
+
  This project was done during my Advanced Data Analytics Course at CalPoly Pomona. Text Mining Airbnb Reviews to Calculate Future, Possible Yield, and
  Exploratory Analysis for tips new and current listers to increase yield. This was a very rigorous project that required many hours of data collecting,     processing, analyzing, etc.
  I want to thank my group partners Stephen C., and Dylan A. for helping each other finish the project.
 
 ## Machine Learning Stocks
  - [Future Price on Stocks]()
+
+
 I have always been interested in Stocks ever since I had done well in a virtual stock game during my Accounting course. However, I never really had the 
 courage to make big investments and didn't think it woud pay off especially when my starting funds weren't as high as in the virtual stock game. However,
 once I had some money saved up and some skills, I wanted to analyze stock prices, predict future trends, and make smart investments.
 
 ## Big Data On Spark - Bike Sharing
  - [Bike Sharing on Spark]()
+
+
 This project was done on AWS EMR on a Spark-Jupyter notebook. The relevant course for this project was Big Data Analytics, and our professor had
 introduced us to AWS and some of their incredible data solutions. This project required use to utilize cloud resources for storage, preparing, processing, analyzing, and for visualizations.
 
 ## Toughest Road to Championship
  - [Road to NBA Championship]()
+
+
  This project was inspired by my interest in wanting to know which NBA championship was the most difficult in terms of competition.
 
 
