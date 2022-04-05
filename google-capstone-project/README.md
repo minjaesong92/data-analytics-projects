@@ -6,7 +6,7 @@ was given along the project, but I have completed the project with more recent h
 In this project, we will be analyzing bike sharing data on R and create profiles for our users.
 
 
-Here, you can find the project outline, source code, project report, and powerpoint presentation.
+Here, you can find the [project outline](), [source code](), [project report](), and [powerpoint presentation]().
 All my work can be viewed, referenced, and slightly modified if needed.
 Please also let me know if there are any errors or confusion!
 
