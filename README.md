@@ -45,13 +45,13 @@ once I had some money saved up and some skills, I wanted to analyze stock prices
 
 
 This project was done on AWS EMR on a Spark-Jupyter notebook. The relevant course for this project was Big Data Analytics, and our professor had
-introduced us to AWS and some of their incredible data solutions. This project required use to utilize cloud resources for storage, preparing, processing, analyzing, and for visualizations.
+introduced us to AWS and some of their incredible data solutions. This project required use to utilize cloud resources for storage, preparing, processing, analyzing, and for visualizations. I would like to thank my partner, Stephen A., for helping with this project.
 
 ## Toughest Road to Championship
  - [Road to NBA Championship]()
 
 
- This project was inspired by my interest in wanting to know which NBA championship was the most difficult in terms of competition.
+ This project was inspired a Youtube video made my "JxmyHighroller" where he explains using data, metrics, and visualizations to portray the toughest road to a NBA Championship. This project is based on my interest in wanting to see for myself the actual results while doing some explanatory analysis. I was hoping to find some new points or trends while going through the data and metrics in the video using Python. 
 
 
 
