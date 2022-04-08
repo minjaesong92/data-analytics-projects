@@ -74,7 +74,7 @@ introduced us to AWS and some of their incredible data solutions. This project r
   </a>
 
  <a href="https://github.com/minjaesong92/data-analytics-projects/tree/main/NBA-championship">
-    <img alt="trophy" title="NBA Championship Trophy" src="https://imageio.forbes.com/specials-images/imageserve/5e3489e88b6cf300071d95db/The-Louis-Vuitton-case-for-the-NBA-championship-trophy-/960x0.jpg?fit=bounds&format=jpg&width=960" width=350 height=450>
+    <img alt="trophy" title="NBA Championship Trophy" src="https://imageio.forbes.com/specials-images/imageserve/5e3489e88b6cf300071d95db/The-Louis-Vuitton-case-for-the-NBA-championship-trophy-/960x0.jpg?fit=bounds&format=jpg&width=960" width=300 height=400>
   </a>
 </p>
 
