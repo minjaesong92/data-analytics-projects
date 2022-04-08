@@ -2,10 +2,12 @@
 * text=auto
 
 # Documents
-*.doc diff=astextplain
-*.DOC diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
+*.doc diff=word
+*.xsl diff=excel
+*.xlsx diff=zip
+*.docx diff=zip
+*.DOC diff=word
+*.DOCX diff=zip
 *.dot diff=astextplain
 *.DOT diff=astextplain
 *.pdf diff=astextplain
