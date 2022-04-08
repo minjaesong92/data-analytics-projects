@@ -41,7 +41,7 @@ courage to make big investments and didn't think it woud pay off especially when
 once I had some money saved up and some skills, I wanted to analyze stock prices, predict future trends, and make smart investments.
 
 ## Big Data On Spark - Bike Sharing
- - [Bike Sharing on Spark]()
+ - [Bike Sharing on Spark](https://github.com/minjaesong92/data-analytics-projects/tree/main/bike-sharing-spark)
 
 
 This project was done on AWS EMR on a Spark-Jupyter notebook. The relevant course for this project was Big Data Analytics, and our professor had
