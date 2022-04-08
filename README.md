@@ -25,7 +25,7 @@ All projects were done in Jupyter Notebook -  Python, R Studio, Tableau, and Spa
  This project was part of the Google Data Analytics Certification on CourseEra.
 
 ## Airbnb Text Mining
- - [Text Mining Project]()
+ - [Text Mining Project](https://github.com/minjaesong92/data-analytics-projects/tree/main/text-mining-project)
 
 
  This project was done during my Advanced Data Analytics Course at CalPoly Pomona. Text Mining Airbnb Reviews to Calculate Future, Possible Yield, and
