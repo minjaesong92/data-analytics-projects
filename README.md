@@ -33,7 +33,7 @@ All projects were done in Jupyter Notebook -  Python, R Studio, Tableau, and Spa
  I want to thank my group partners Stephen C., and Dylan A. for helping each other finish the project.
 
 ## Machine Learning Stocks
- - [Future Price on Stocks]()
+ - [Future Price on Stocks](https://github.com/minjaesong92/data-analytics-projects/tree/main/ml-stock-price)
 
 
 I have always been interested in Stocks ever since I had done well in a virtual stock game during my Accounting course. However, I never really had the 
