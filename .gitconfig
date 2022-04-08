@@ -189,3 +189,14 @@
 [mergetool "sourcetree"]
 	cmd = "'' "
 	trustExitCode = true
+	
+	
+[diff "zip"]
+      textconv = unzip -c -a
+      
+[diff "word"] 
+    textconv = strings
+[diff "excel"]
+    textconv = strings
+[diff "zip"]
+    textconv = unzip -c -a      
