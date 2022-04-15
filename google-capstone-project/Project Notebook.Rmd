@@ -216,6 +216,16 @@ all_trips_v4 %>%
   geom_col(position = "dodge")
 ```
 
+```{r}
+# lets visualize average duration by month and sort rider type
+all_trips_v4 %>% 
+  group_by(member_casual, month) %>% 
+  summarise(number_of_rides = n()
+            ,average_duration = mean(ride_length)) %>% 
+  arrange(member_casual, month)  %>% 
+  ggplot(aes(x = month, y = average_duration, fill = member_casual)) +
+  geom_col(position = "dodge")
+```
 
 ```{r}
 # Let's visualize the number of rides by rider type
