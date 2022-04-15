@@ -6,7 +6,7 @@ was given along the project, but I have completed the project with more recent h
 In this project, we will be analyzing bike sharing data on R and create profiles for our users.
 
 
-Here, you can find the [project outline](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Case%20Study%20Outline%20and%20Roadmap.pdf), [source code](), [project report](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Project%20Report.pdf), and [powerpoint presentation]().
+Here, you can find the [project outline](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Case%20Study%20Outline%20and%20Roadmap.pdf), [source code](), [project report](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Project%20Report.pdf), and [powerpoint presentation](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Cyclistic%20Bike%20Share.pdf).
 All my work can be viewed, referenced, and slightly modified if needed.
 Please also let me know if there are any errors or confusion!
 
