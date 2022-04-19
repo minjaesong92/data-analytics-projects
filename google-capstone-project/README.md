@@ -9,7 +9,7 @@ In this project, we will be analyzing bike sharing data on R and create profiles
 Here, you can find the [project outline](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Case%20Study%20Outline%20and%20Roadmap.pdf), [source code](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/sourcecode.md), [project report](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Project%20Report.pdf), and [powerpoint presentation](https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Cyclistic%20Bike%20Share.pdf).
 All my work can be viewed, referenced, and slightly modified if needed.
 Please also let me know if there are any errors or confusion!
-Here is also a [link](https://htmlpreview.github.io/?https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Project%20final.nb.html) to the project in html format. Here you can view all the results of the code and visualizations.
+Here is also a [link](https://htmlpreview.github.io/?https://github.com/minjaesong92/data-analytics-projects/blob/main/google-capstone-project/Project%20Notebook.nb.html) to the project in html format. Here you can view all the results of the code and visualizations.
 
 
 Thank you and please enjoy!
