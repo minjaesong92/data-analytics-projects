@@ -78,7 +78,7 @@ introduced us to AWS and some of their incredible data solutions. This project r
   </a>
 </p>
 
- This project was inspired a Youtube video made my "JxmyHighroller" where he explains using data, metrics, and visualizations to portray the toughest road to a NBA Championship. This project is based on my interest in wanting to see for myself the actual results while doing some explanatory analysis. I was hoping to find some new points or trends while going through the data and metrics in the video using Python. 
+ This project was inspired a Youtube video made by "JxmyHighroller" where he explains using data, metrics, and visualizations to portray the toughest road to a NBA Championship. This project is based on my interest in wanting to see for myself the actual results while doing some explanatory analysis. I was hoping to find some new points or trends while going through the data and metrics in the video using Python. 
 
 
 
